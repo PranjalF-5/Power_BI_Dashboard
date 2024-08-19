@@ -1,6 +1,7 @@
-Here's the README without the timestamps:
+![image](https://github.com/user-attachments/assets/00962890-8457-4f4c-b91e-ba88626c7af8)
+![image](https://github.com/user-attachments/assets/5124a5f5-4f74-4905-a439-721caefe3bc2)
 
----
+
 
 # Power BI Project Development
 
